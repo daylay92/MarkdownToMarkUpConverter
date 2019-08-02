@@ -19,9 +19,10 @@ The following tools will be needed to run this application successfully:
 To run this project, install it locally using npm:
 
 ```
-$ cd convert-markdown
+$ cd MarkdownToMarkUpConverter
 $ mkdir markdown
 $ npm install
+$ npm run build
 ```
 ## Instructions For Use
 
